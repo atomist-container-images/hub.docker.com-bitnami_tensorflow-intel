@@ -1,12 +1,45 @@
-# Tags: latest, 2.8.0-debian-10-r45, 2.8.0, 2-debian-10, 2
+# Tags: latest, 2.8.0-debian-10-r56, 2.8.0, 2-debian-10, 2
 FROM bitnami/tensorflow-intel:latest
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r45
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r56
 FROM bitnami/tensorflow-intel:2.8.0
 FROM bitnami/tensorflow-intel:2-debian-10
 FROM bitnami/tensorflow-intel:2
 
 # Tags: _
 FROM bitnami/tensorflow-intel:_
+
+# Tags: 2.8.0-debian-10-r55
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r55
+
+# Tags: 2.8.0-debian-10-r54
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r54
+
+# Tags: 2.8.0-debian-10-r53
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r53
+
+# Tags: 2.8.0-debian-10-r52
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r52
+
+# Tags: 2.8.0-debian-10-r51
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r51
+
+# Tags: 2.8.0-debian-10-r50
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r50
+
+# Tags: 2.8.0-debian-10-r49
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r49
+
+# Tags: 2.8.0-debian-10-r48
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r48
+
+# Tags: 2.8.0-debian-10-r47
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r47
+
+# Tags: 2.8.0-debian-10-r46
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r46
+
+# Tags: 2.8.0-debian-10-r45
+FROM bitnami/tensorflow-intel:2.8.0-debian-10-r45
 
 # Tags: 2.8.0-debian-10-r44
 FROM bitnami/tensorflow-intel:2.8.0-debian-10-r44
@@ -58,36 +91,3 @@ FROM bitnami/tensorflow-intel:2.8.0-debian-10-r29
 
 # Tags: 2.8.0-debian-10-r28
 FROM bitnami/tensorflow-intel:2.8.0-debian-10-r28
-
-# Tags: 2.8.0-debian-10-r27
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r27
-
-# Tags: 2.8.0-debian-10-r26
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r26
-
-# Tags: 2.8.0-debian-10-r25
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r25
-
-# Tags: 2.8.0-debian-10-r24
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r24
-
-# Tags: 2.8.0-debian-10-r23
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r23
-
-# Tags: 2.8.0-debian-10-r22
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r22
-
-# Tags: 2.8.0-debian-10-r21
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r21
-
-# Tags: 2.8.0-debian-10-r20
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r20
-
-# Tags: 2.8.0-debian-10-r19
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r19
-
-# Tags: 2.8.0-debian-10-r18
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r18
-
-# Tags: 2.8.0-debian-10-r17
-FROM bitnami/tensorflow-intel:2.8.0-debian-10-r17
